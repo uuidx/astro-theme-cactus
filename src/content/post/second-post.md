@@ -7,6 +7,9 @@ tags: ["example", "blog"]
 
 ## This is a post made with Markdown
 
+<img src="https://astro.build/assets/logo.png" width="25" alt="Astro">
+
+
 ```js
 // Example JavaScript
 function returnSeven() {
